@@ -1,1 +1,1 @@
-# odin-recipes
+My first TOP project is a HTML website, where I have to create a simple recipe website. In successfully creating this project, I expect that this will help in retaining the lessons I have learned in this course. In addition, I will also learn other elements that I am unfamiliar with. I really hope I can finish this while learning and having fun. Goodluck to us, future dani!
